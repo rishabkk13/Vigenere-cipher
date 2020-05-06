@@ -10,7 +10,8 @@ Issues/drawbacks:
 ### B) Code2.py
 Status -> Still working on it  
 Whats done so far:
-1) Display NxN matrix for all permutations of the encrpytion/decrpytion matrix
+1) Display NxN matrix for all permutations of the encrpytion/decrpytion matrix  
+2)Spacing issue taken care of  
+
 Improvements that im working on:
-1) Spacing issue taken care of
-2) Will implement it on all alphabets, numbers and special characters
+1) Will implement it on all alphabets, numbers and special characters
