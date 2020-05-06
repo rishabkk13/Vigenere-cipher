@@ -1,4 +1,4 @@
-## Initial commits :
+## Whats being done:
 
 ### A) Code1.py
 Status -> working  
