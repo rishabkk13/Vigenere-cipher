@@ -15,4 +15,4 @@ Whats done so far:
 2) Spacing issue taken care of  
 
 Improvements that im working on:
-1) Will implement it on all alphabets, numbers and special characters
+1) Will 'try' and implement it on all alphabets, numbers and special characters
