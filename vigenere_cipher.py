@@ -50,6 +50,7 @@ def decrypt(text, big_key):
             i += 1    
     return res    
 
+
 exit_loop = 'y'
 while(exit_loop=='y'):
     print('\n|-------------------------------------|')
