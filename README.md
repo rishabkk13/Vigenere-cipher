@@ -1,18 +1,11 @@
-## Whats being done:
+## What is a Vigenere Cipher?  
+Vigenere Cipher is a method of encrypting alphabetic text. It uses a simple form of polyalphabetic substitution. A polyalphabetic cipher is any cipher based on substitution, using multiple substitution alphabets .The encryption of the original text is done using the Vigenère square or Vigenère table
+1) The table consists of the alphabets written out 26 times in different rows, each alphabet shifted cyclically to the left compared to the previous alphabet, corresponding to the 26 possible Caesar Ciphers.
+2) At different points in the encryption process, the cipher uses a different alphabet from one of the rows.
+3) The alphabet used at each point depends on a repeating keyword  
 
-### A) Code1.py
-Status -> working  
-Issues/drawbacks:
-1) Spacing between words in normal text not taken care of
-2) Limitation in switching between upper case and lower case and vice versa
-3) Sometimes inaccurate when converting from normal text to cipher text and then back to normal text
-4) Normal text limited to only alphabets 
-
-### B) Code2.py
-Status -> Still working on it  
-Whats done so far:
-1) Display NxN matrix for all permutations of the encrpytion/decrpytion matrix 
-2) Spacing issue taken care of  
-
-Improvements that im working on:
-1) Will 'try' and implement it on all alphabets, numbers and special characters
+### Some important features of these codes:
+1) vigenere_cipger.py works only on alphabets, and not on numbers and special characters
+2) The 'cipher key' isn't case sensitive
+3) Normal text/cipher text is case sensitive
+4) matrix.py is just a fun program that simulates ideally all possible permutations to create the encryption/decryption matrix
